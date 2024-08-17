@@ -1,0 +1,7 @@
+{
+  "name": "replica2.app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
